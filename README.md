@@ -1,52 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A11CB,100:4A00E0&height=250&section=header&text=Dev.%20Ismael%20Rodrigues&fontSize=70&fontColor=F00&animation=fadeIn"/>
+<div align="center">
 
-<h3 align="center">💻 Desenvolvedor Web</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:8B0000&height=180&section=header&text=RiqueBitt&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Tech&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-Apaixonado por tecnologia, desenvolvimento web e construção de aplicações modernas.
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+### 🩸 Developer · 🎮 Minecraft · 🌐 Web
 
-## 🚀 Tecnologias que utilizo e estudo
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,lua,react,nodejs,postgres,git,github,vscode" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,tailwind,bootstrap,git,github,vscode" />
-</p>
+<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://img.shields.io/badge/Building%20Ideas-7A0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creating%20Projects-450000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Always%20Learning-180000?style=for-the-badge&logoColor=white"/>
 
-<p align="center" height="40" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Web;HTML5+%7C+CSS3+%7C+JavaScript;React+%7C+TypeScript+%7C+Node.js;Python+%7C+PostgreSQL;TailwindCSS+%7C+Bootstrap;Sempre+aprendendo+algo+novo+🚀&center=true&width=600&height=30">
-</p>
-
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor web apaixonado por criar aplicações modernas, responsivas e escaláveis.
-
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, trabalhando diariamente com tecnologias do ecossistema JavaScript e expandindo meus conhecimentos em backend e banco de dados.
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <a href="https://w.app/ptgje9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=merko&hide_border=false&order=2&custom_title=Linguagens%20estudadas%20S2" height="155" alt="languages graph"  />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&customColorList=6,12,24,30"/>
+
+<div align="center">
+
+### 🌐 Socials
+
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=7A0000&labelColor=&style=for-the-badge" height="25" alt="github logo"/>
+
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7A0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
+
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=450000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
+
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=180000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+### 🚀 Projects
+
+🟣 **Project Club**
+*Social platform & application ecosystem*
+
+🎮 **Minecraft**
+*Servers · Plugins · Systems*
+
+🤖 **Robbie**
+*Bot · Economy · XP · Rankings*
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=RiqueBitt&show_icons=true&hide_border=true&bg_color=080000&title_color=7A0000&text_color=FFFFFF&icon_color=7A0000&count_private=true&rank_icon=github" height="155"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&hide_border=true&bg_color=080000&title_color=7A0000&text_color=FFFFFF&langs_count=5" height="155"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RiqueBitt&label=PROFILE%20VIEWS&color=7A0000&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📚 Languages Studied
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqueBitt&layout=compact&hide_border=true&bg_color=080000&title_color=8B0000&text_color=FFFFFF&langs_count=8" height="155"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕹️ Contributions
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -54,4 +89,20 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack, 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ismaelrdgdev/ismaelrdgdev/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-###
+</div>
+
+---
+
+<div align="center">
+
+### 🖤 Build. Create. Evolve.
+
+<a href="https://github.com/RiqueBitt">
+<img src="https://img.shields.io/badge/RiqueBitt-000000?style=for-the-badge&logo=github&logoColor=7A0000"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0000,50:320000,100:000000&height=100&section=footer" width="100%"/>
+
+</div>
